@@ -1,0 +1,1 @@
+The recommendation system analyzes the content of movies, such as genres, actors, directors, and plot keywords, to create a profile for each movie. Then, it suggests movies with similar content to those that a user has rated highly. This approach enables personalized recommendations even for users with unique tastes or preferences.
